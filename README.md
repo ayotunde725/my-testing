@@ -1,4 +1,13 @@
-ZE_Book_API — Postman Collection
+-------------------------------------------------------------------------------------------------------------------------------------
+[View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQ1Gu)  (Book APi)
+
+[View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQ1MR)    (Student API)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Book_API — Postman Collection
 
  About
 A complete Book Store REST API test suite built 
