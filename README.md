@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------------------------------------------------------------
-[View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQ1Gu)  (Book APi)
+[View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQ1Gu)  (Book API)
 
 [View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQ1MR)    (Student API)
 
