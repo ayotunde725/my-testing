@@ -4,6 +4,7 @@
 [View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQ1MR)    (Student API)
 
 [View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PR1eK)     (Data Driven Book API)
+    Download cvs link: Link : (https://raw.githubusercontent.com/ayotunde725/api-automation/refs/heads/main/books.csv)
 
 [View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4Mu1n6)   (PetStore-API-With-JSON-Model)
 
@@ -119,7 +120,37 @@ POSTMAN DOCUMENTATION
 - ✅ Header validation
 
 
-________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________
+
+
+BOOK API DATA DRIVEN 
+
+The Book_API_DataDriven collection is an advanced API test suite built with Postman that demonstrates professional-level Data Driven Testing techniques. Rather than testing a single fixed scenario, this collection automatically executes the same workflow multiple times using different test data loaded from a CSV file — simulating real-world testing environments used in enterprise software companies.
+
+
+What makes this collection special is that, every test iteration runs with a complete different customer name, book ID and quantity, all sourced automatically from a CVS file. This proves that the API works correctly multiple data scenarios, not just one fixed example 
+
+Data Driven Testing (DDT) is an advanced automation approach where test inputs and expected results are stored separately in an external file (such as a CSV or Excel file) and fed into the test automatically during execution
+
+Data Driven Validation
+✓	Each CSV row executes independently
+✓	Different customer names tested per iteration
+✓	Different book IDs tested per iteration
+✓	All iterations pass consistently
+
+
+Follow these steps to execute the Data Driven Book API collection using Postman Collection Runner:
+
+Download the file book.csv from the GitHub repository link provided in the documentation.
+           Link : (https://raw.githubusercontent.com/ayotunde725/api-automation/refs/heads/main/books.csv)
+Click the collection name in the left sidebar, then click the Run button to open Collection Runner.
+In Collection Runner, click Select File under the Data section and choose book.csv from your computer.
+Set the number of Iterations to match the number of rows in your CSV file (e.g. 5 iterations for 5 rows).
+Click Run ZEE_Book_API_DataDriven and watch all iterations execute automatically with different data.
+After completion, review the results panel. Each iteration shows pass/fail for all 6 test assertions.
+
+
+
 
 
 
